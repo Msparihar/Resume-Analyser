@@ -8,12 +8,15 @@
 <br>
 <br>
 <div class="container" class="w-25 p-3">
-    <form action="#" method="post">
-        <p><input type="text" class="form-control" name="url" value="Enter your url here"/></p>
-        <p><center><input type="submit" class="btn btn-primary" value="Transcribe"/></center></p>
+    <form method="post">
+        
+        {{form.hidden_tag()}}
+        {{form.file()}}
+        {{form.submit()}}
+        
+        
     </form>
 </div>
 
-{{transcription}}
 
 {% endblock %}

@@ -3,3 +3,6 @@ Spacy
 scikit-learn
 matplotlib
 scipy
+werkzeug
+wtforms
+flask_wtf
