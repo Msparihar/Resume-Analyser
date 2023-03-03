@@ -1,0 +1,5 @@
+Flask
+Spacy
+scikit-learn
+matplotlib
+scipy
