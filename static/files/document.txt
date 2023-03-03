@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nayan Panda
 Technical Skills:Python, Microsoft Excel, MicrosoftPower BI, Java, HTML, CSS,MySQL, Data Analytics, Machine LearningCertifications:
 ●Google Data Analytics Professional Certificate, Coursera, Jan 2023
@@ -20,3 +21,27 @@ Hobbies
 ▪Reading Novels – novels by authors such as Agatha Christie, and Rick Riordan.
 ▪Playing sports such as Badminton and Football.
 LanguagesI possess native fluency inEnglish, HindiandBengali.
+=======
+Nayan Panda
+Technical Skills:Python, Microsoft Excel, MicrosoftPower BI, Java, HTML, CSS,MySQL, Data Analytics, Machine LearningCertifications:
+●Google Data Analytics Professional Certificate, Coursera, Jan 2023
+●Fundamentals of Data Analytics Certification, NASSCOM - LEAPSAnalyttica, Dec 2022
+●HackerRank 5 Star Python Certification, Nov 2022
+PROJECTS
+AutomationAutomated Measurement and Testing Checkbox Unit(Sep2022)-Description: Developed an automated measurement and testing checkout unit program for a PXIesystem consisting of a variety of RF instruments. The objective was to build an advancedstate-machine-based modular automation program (VI) with a fully functional front end-Technology: NI LabVIEW and various LV Libraries/Sub-VIs, Python 3, MS Excel-Team Project: NA-Role: Research Intern; Developer
+WORK EXPERIENCE
+Digit.in(2021-Present)Writer, Reviewer, and Member of the Editorial Team:-Contributed to the creation and publication of content for a leading technology navigator andmedia publication company.-Provided feedback on drafts and articles. 
+-Collaborated with the editorial team to ensure high quality and accuracy in the final content.
+ISRO ResearchIntern(Jun 2022 - Sep2022)Research Intern at the Space Application Centre of ISRO:-Contributed to the development, testing and measurement of a digital processor payload.-Developed an automated modular measurement and testing application.-Demonstrated deep understanding of programming concepts and techniques.-Worked with PXIe systems, RF switches and instruments, LabVIEW and software developmenttools.Tools used, Skills demonstrated and Improvements:-Proficient in designing, implementing, and optimizing advanced automation programs.-Developed the functional prototype and final model (VI) using programming languages and toolssuch as Python3, LabVIEW and NI’s SubVI libraries.-Designed and developed the front-end user interface and user experience of the project as wellusing UI/UX design principles and techniques.-Strong problem-solving skills, attention to detail, and ability to work under pressure. 
+-Implemented advanced algorithms and techniques to improve the payload measurement andtesting process efficiency and accuracy by upto 66.6%.
+EDUCATIONBoardTenureEducational institutionCGPAB. Tech (CSE)Sept 2020 – May 2024VIT Bhopal University7.94/10Class XII (CBSE)May 2020Army Public School, Bareilly8.4/10Class X (CBSE)May 2018Army Public School, Bareilly9/10
+ADDITIONAL INFORMATION
+Responsibilities
+▪Core Member of Codecademy Central India Chapter, E-Cell Design Team, and Mozilla Firefox Club-Demonstrated technical expertise and leadership-Exhibited skills in design, management and technical contributions.
+▪SKOAR! College Ambassador/Representative and Community Manager in 2020-Effectively managed and led teams in E-sports events.-Demonstrated proficiency in team management and event coordination.
+Hobbies
+▪Writing/Composing creative works, Video editing.
+▪Reading Novels – novels by authors such as Agatha Christie, and Rick Riordan.
+▪Playing sports such as Badminton and Football.
+LanguagesI possess native fluency inEnglish, HindiandBengali.
+>>>>>>> 1b77236c208ad7f071234f700fa72ca0cc90e57d

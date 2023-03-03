@@ -15,3 +15,8 @@ pip install -r requirements.txt
 ```
 python -m spacy download en_core_web_sm
 ```
+## Step - 4
+### Running app
+``` 
+python app.py
+```
