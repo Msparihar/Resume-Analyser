@@ -8,15 +8,16 @@
 <br>
 <br>
 <div class="container" class="w-25 p-3">
-    <form method="post">
+    <form method="POST" enctype='multipart/form-data'>
         
         {{form.hidden_tag()}}
         {{form.file()}}
         {{form.submit()}}
         
-        
     </form>
 </div>
+
+{{scores}}
 
 
 {% endblock %}

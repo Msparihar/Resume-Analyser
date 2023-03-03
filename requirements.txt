@@ -6,3 +6,4 @@ scipy
 werkzeug
 wtforms
 flask_wtf
+PyPDF2
